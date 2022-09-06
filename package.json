@@ -1,0 +1,22 @@
+{
+  "name": "codesandbox-with-onedarkpro",
+  "displayName": "CodeSandbox with OnedarkPro",
+  "description": "A mix between the codesandbox and onedark themes ",
+  "version": "1.0.0",
+  "publisher": "JVN",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "codedark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/codedark-color-theme.json"
+      }
+    ]
+  }
+}
