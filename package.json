@@ -4,6 +4,10 @@
   "description": "A mix between the codesandbox and onedark themes ",
   "version": "1.0.0",
   "publisher": "JVN",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JVN321/codesandbox-with-onedarkpro"
+  },
   "engines": {
     "vscode": "^1.71.0"
   },
